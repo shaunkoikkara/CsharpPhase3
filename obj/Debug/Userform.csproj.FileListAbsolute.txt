@@ -1,0 +1,12 @@
+D:\CDotnet\Userform\obj\Debug\Userform.csproj.AssemblyReference.cache
+D:\CDotnet\Userform\obj\Debug\Userform.Form1.resources
+D:\CDotnet\Userform\obj\Debug\Userform.Properties.Resources.resources
+D:\CDotnet\Userform\obj\Debug\Userform.csproj.GenerateResource.cache
+D:\CDotnet\Userform\obj\Debug\Userform.csproj.CoreCompileInputs.cache
+D:\CDotnet\Userform\bin\Debug\Userform.exe.config
+D:\CDotnet\Userform\bin\Debug\Userform.exe
+D:\CDotnet\Userform\bin\Debug\Userform.pdb
+D:\CDotnet\Userform\obj\Debug\Userform.exe
+D:\CDotnet\Userform\obj\Debug\Userform.pdb
+D:\CDotnet\Userform\obj\Debug\Userform.Form2.resources
+D:\CDotnet\Userform\obj\Debug\Userform.Menuform.resources
